@@ -1,5 +1,8 @@
 _repo: The-Philistine-b-a-periodical-of-protest-Vol-III-No-3-August-1896_72688
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72688-h/images/cover-deco1.jpg
 creator:
   author:
     agent_name: Various
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72688#The-Philistine-b-a-periodical-of-protest-Vol-III-No-3-August-1896
 gutenberg_issued: '2024-01-11'
 gutenberg_type: Text
 identifiers:
